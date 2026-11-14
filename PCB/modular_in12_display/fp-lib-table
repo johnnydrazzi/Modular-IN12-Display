@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "!John - Nixie Tubes") (type "KiCad") (uri "${KIPRJMOD}/nixie_tubes.pretty") (options "") (descr ""))
+	(lib (name "!John - Connectors") (type "KiCad") (uri "${KIPRJMOD}/connectors.pretty") (options "") (descr ""))
+	(lib (name "!John - Neon Bulbs") (type "KiCad") (uri "${KIPRJMOD}/neon_bulbs.pretty") (options "") (descr ""))
+)
